@@ -1,6 +1,6 @@
 module github.com/atrox39/simple-http-go
 
-go 1.19
+go 1.18
 
 require (
 	github.com/bytedance/sonic v1.9.2 // indirect
